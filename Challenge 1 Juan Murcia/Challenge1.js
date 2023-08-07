@@ -1,6 +1,6 @@
 /* 
-Una de las diferencias entre las funciones regulares y las de felcha es que la función de flecha tiene una cantidad 
-definida de parámetros, e incluso se puede acceder a otros parametros así no estén especificados, esto para la función regular.
+Una de las diferencias entre las funciones regulares y las de flecha es que la función de flecha tiene una cantidad 
+definida de parámetros. Para la función regular, se puede acceder a otros parametros así no estén especificados.
 
 Flecha Sin propio this: Usa contexto léxico =/= Regular Tienen su propio this.
 */
@@ -9,7 +9,7 @@ Flecha Sin propio this: Usa contexto léxico =/= Regular Tienen su propio this.
 
 /* La explicación para estas funciones radica en que establecemos inicialmente una variable y le asignamos
 un nùmero, posteriormente a la función le pasamos esa variable y después procedemos a crear un condicional
-que nos compruebe si el residuo  de dicho división del número con el 2 es igual a '0', ya que en teoría si el residuo es 0
+que nos compruebe si el residuo de dicha división del número con el 2 es igual a '0', ya que en teoría si el residuo es 0
 el nùmero es par y es impar de darse lo contrario.
 */
 
